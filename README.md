@@ -158,7 +158,8 @@ MultiAgents-with-CrewAI-ResumeJDMatcher/
 ### results resume recommendations
 ![results resume recommendations](images-output/results-resume-recommendations.png)
 ---
-![results resume recommendations](images-output/resume_job_match_report.md)
+
+results resume recommendations: [results resume recommendations](images-output/resume_job_match_report.md)
 ---
 
 ### cover letter recommendation
