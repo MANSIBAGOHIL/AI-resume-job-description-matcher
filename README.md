@@ -143,8 +143,32 @@ MultiAgents-with-CrewAI-ResumeJDMatcher/
 
 ## Preview
 
-![CareerFit AI Preview](assets/careerfit-ai-preview.png)
+### Home page
+![Home page AI Preview](images-output/home-screen.png)
+---
+
+### Add application material section
+![Add application material](images-output/submit-resume-job-description.png)
+---
+
+### resume and JD match analysis
+![resume and JD match analysis](images-output/results-match-analysis.png)
+---
+
+### results resume recommendations
+![results resume recommendations](images-output/results-resume-recommendations.png)
+---
+![results resume recommendations](images-output/resume_job_match_report.md)
+---
+
+### cover letter recommendation
+![cover letter recommendation](images-output/cover-letter-results.png)
+---
 
 #### Important Note
 
 The keyword-coverage percentage is an explainable text-overlap indicator, not an official ATS score or a guarantee of selection. All AI-generated recommendations and application materials should be reviewed before use.
+
+## Contributors
+
+- Mansiba Gohil
