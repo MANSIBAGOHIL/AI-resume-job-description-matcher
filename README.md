@@ -81,7 +81,7 @@ MultiAgents-with-CrewAI-ResumeJDMatcher/
 └── README.md
 ```
 
-## 🚦 Running the Project
+## Running the Project
 
 1. Clone the repository and open the project folder:
 
