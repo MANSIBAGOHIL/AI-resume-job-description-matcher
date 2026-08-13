@@ -1,4 +1,4 @@
-# CareerFit AI — Resume–Job Description Matcher
+# AI — Resume and Job Description Matcher
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![CrewAI](https://img.shields.io/badge/CrewAI-Multi--Agent-7C3AED)](https://www.crewai.com/)
